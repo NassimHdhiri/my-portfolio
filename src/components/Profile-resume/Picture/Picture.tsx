@@ -1,4 +1,3 @@
-import React from 'react';
 import ImageNassim from '../../../assets/Profile_resume/images/imagenassim1.svg';
 import BookmarkRibbon from '../../../assets/Profile_resume/images/BookmarkRibbon.svg';
 import Crownd from '../../../assets/Profile_resume/images/Crownd.svg';

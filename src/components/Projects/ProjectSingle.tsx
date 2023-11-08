@@ -1,4 +1,3 @@
-import React from 'react'
 import pic1 from '../../assets/Projects/images/pic1.svg'
 
 // type Props = {}
@@ -17,6 +16,5 @@ export default function ProjectSingle() {
 }
 
 
-{/* <div className='figma grid grid-cols-3 gap-4 w-[800px] m-auto'>
-           
+{/* <div className='figma grid grid-cols-3 gap-4 w-[800px] m-auto'>       
 </div> */}

@@ -1,4 +1,3 @@
-import React from 'react'
 import NassimPic from '../../assets/Profile_about_me/images/imagenassim.svg'
 
 

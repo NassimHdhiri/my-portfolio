@@ -1,4 +1,3 @@
-import React from 'react'
 import Github from '../../assets/Profile_resume/images/github1.svg'
 import Linkedin from '../../assets/Profile_resume/images/linkedin1.svg'
 import Cursor from '../../assets/Profile_resume/images/Cursor.svg'

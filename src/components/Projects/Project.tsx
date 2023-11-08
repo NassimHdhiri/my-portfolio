@@ -1,4 +1,3 @@
-import React from 'react'
 import ProjectMenu from './ProjectMenu'
 import ProjectTitle from './ProjectTitle'
 import ProjectsView from './ProjectsView'

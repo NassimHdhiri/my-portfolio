@@ -1,6 +1,3 @@
-import React from 'react'
-
-import AboutMe from '../../assets/Profile_about_me/images/AboutMe.svg'
 
 export default function AboutMeTitle() {
   return (

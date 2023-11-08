@@ -1,4 +1,3 @@
-import React from 'react'
 import GlobalWorld from '../../assets/Profile_resume/images/GlobeWorld.svg';
 
 export default function Resume() {

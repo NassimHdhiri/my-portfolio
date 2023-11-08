@@ -1,5 +1,3 @@
-import React from 'react'
-import ExpSocialPic from '../../../assets/Profile_about_me/images/section-social-experiences.png' 
 import ExpSocialTitle from './ExpSocialTitle'
 import ExpSocialPicEnactus from './ExpSocialPicEnactus'
 import ExpSocialCoachIsg from './ExpSocialCoachIsg'

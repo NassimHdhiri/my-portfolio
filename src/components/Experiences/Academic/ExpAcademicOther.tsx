@@ -1,4 +1,3 @@
-import React from 'react';
 import CheckSvg from '../../../assets/Profile_experiences/images/Subtract.svg';
 
 type Props={kind:boolean}

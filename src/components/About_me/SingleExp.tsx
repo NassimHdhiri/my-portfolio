@@ -1,4 +1,3 @@
-import React from 'react'
 import Graduation from '../../assets/Profile_about_me/images/GraduationCap.svg'
 
 

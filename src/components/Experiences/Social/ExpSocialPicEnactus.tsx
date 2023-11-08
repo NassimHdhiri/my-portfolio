@@ -1,4 +1,3 @@
-import React from 'react'
 import EnactusPic from '../../../assets/Profile_experiences/images/Social/enactuscontainer.svg'
 
 export default function ExpSocialPicEnactus() {

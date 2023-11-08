@@ -1,4 +1,3 @@
-import React from 'react'
 import Picture from './Picture/Picture'
 import Resume from './Resume'
 import ProfilBtns from './ProfilBtns'

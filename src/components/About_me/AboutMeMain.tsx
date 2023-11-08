@@ -1,4 +1,3 @@
-import React from 'react'
 import AboutMeTitle from './AboutMeTitle'
 import NassimPic2 from './NassimPic2'
 import SingleExp from './SingleExp'

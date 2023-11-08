@@ -1,6 +1,5 @@
-import React, { useState, SyntheticEvent } from 'react'; // Import SyntheticEvent
+import  { useState, SyntheticEvent } from 'react'; // Import SyntheticEvent
 import emailjs from '@emailjs/browser';
-import ContactPic from '../../assets/Profile_about_me/images/section-contact-us.png';
 
 export default function Contact() {
   const [name, setName] = useState('Guess user');
