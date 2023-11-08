@@ -1,5 +1,3 @@
-import React from 'react'
-import ProjectSingle from './ProjectSingle'
 import Pagination from './Pagination'
 import ProjectFigma from './Types/ProjectFigma'
 import ProjectMobile from './Types/ProjectMobile'

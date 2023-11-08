@@ -1,4 +1,3 @@
-import React from 'react';
 import { useSelector,useDispatch } from 'react-redux';
 import { AppState } from '../../store'; // Import your AppState type
 import { handleCurrentSlide } from '../../store/PortfolioReducer';

@@ -1,4 +1,3 @@
-import React from 'react'
 import CoachIsgPic from '../../../assets/Profile_experiences/images/Social/containerclubimagecontainer.svg'
 
 export default function ExpSocialCoachIsg() {
