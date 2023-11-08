@@ -1,4 +1,4 @@
-import Graduation from '../../assets/Profile_about_me/images/GraduationCap.svg'
+import Graduation from '../../assets/Profile_about_me/images/graduationcap.svg'
 
 
 export default function SingleExp() {
