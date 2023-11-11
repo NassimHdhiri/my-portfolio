@@ -9,7 +9,7 @@ import { AppState } from '../../store'
 export default function ProjectsView() {
     const {currentSlide} = useSelector((state:AppState)=>state.home);
   return (
-    <div className='xs:m-auto'>
+    <div className='xs:m-auto mx-auto  xs:pl-7 bg-red-200 '>
 
         { (currentSlide =="figma" ) && <ProjectFigma/>}
         { (currentSlide =="mobile" ) && <ProjectMobile/>}

@@ -7,11 +7,11 @@ type Props = {
 
 export default function Layout({ children }: Props) {
   return (
-    <div className="relative min-h-screen flex  justify-center MT bg-blue-300 ">
+    <div className="relative min-h-screen flex  justify-center  MT bg-blue-300  ">
       {/* Sidebar */}
       
       {/* Main Content */}
-      <main className=" w-[95%] p-4 pt-0">
+      <main className=" w-[95%] p-4 pt-0 ">
         {/* Navbar */}
         
           <Navbar/>

@@ -1,8 +1,8 @@
 
 export default function Footer() {
   return (
-    <div className=' m-auto ml-7'>
-      <div className='flex gap-4  justify-around mb-12 mt-12 m-auto w-[900px] xs:w-64'>
+    <div className=' m-auto ml-7 xs:w-full '>
+      <div className='flex gap-4  justify-around mb-12 mt-12 m-auto w-[900px] xs:w-72'>
         {/* <Link></Link> */}
         <a href="" className=' xs:text-[12px] lg:text-[20px] xs:-ml-16  capitalize font-semibold'>about</a>
         <a href="" className=' xs:text-[12px] lg:text-[20px] xs:-ml-16  capitalize font-semibold'>experiences</a>

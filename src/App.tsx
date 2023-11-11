@@ -7,15 +7,16 @@ import Footer from './components/Footer/Footer'
 import Layout from './components/Layout/Layout'
 import Main from './components/Profile-resume/Main'
 import Project from './components/Projects/Project'
+import Repaire from './components/Repaire/Repaire'
 
 function App() {
 
   return (
-    <>
+    <div className='bg-red-200 w-screen mr-8 ml-8 '>
 
       <Layout>
           <Main/>
-          {/* <Repaire/> */}
+          <Repaire/>
           <AboutMeMain/>
           <ExpAcademic/>
           <ExpSocial/>
@@ -23,7 +24,7 @@ function App() {
           <Contact/>
           <Footer/>
       </Layout>
-    </>
+    </div>
   )
 }
 
