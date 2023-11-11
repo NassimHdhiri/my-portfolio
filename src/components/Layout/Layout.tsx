@@ -11,7 +11,7 @@ export default function Layout({ children }: Props) {
       {/* Sidebar */}
       
       {/* Main Content */}
-      <main className=" w-[95%] p-4 pt-0 m-auto xs:whitespace-nowrap">
+      <main className=" w-[95%] p-4 pt-0 m-auto ">
         {/* Navbar */}
         
           <Navbar/>
