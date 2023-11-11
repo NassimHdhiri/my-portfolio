@@ -4,7 +4,7 @@ import pic1 from '../../assets/Projects/images/pic1.svg'
 
 export default function ProjectSingle() {
   return (
-    <div className='flex flex-col w-[250px] gap-y-4 bg-gray-400 p-6 rounded-3xl'>
+    <div className='flex flex-col w-[250px]  xs:w-64  gap-y-4 bg-gray-400 p-6 rounded-3xl'>
                 <img src={pic1} alt=''/>
     
                 {/* buttons */}

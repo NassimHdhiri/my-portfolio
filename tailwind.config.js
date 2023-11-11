@@ -44,7 +44,15 @@ export default {
     'Segoe UI Emoji', 
     'Segoe UI Symbol', 
     'Noto Color Emoji'
-  ]}
+  ]},
+  screens: {
+    'xs': '350px', // Add a new breakpoint for screens smaller than 380px
+    'sm': '640px',
+    'md': '768px',
+    'lg': '1024px',
+    'xl': '1280px',
+    '2xl': '1536px',
+  },
     },
   plugins: [],
 }

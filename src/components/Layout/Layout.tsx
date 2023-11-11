@@ -7,7 +7,7 @@ type Props = {
 
 export default function Layout({ children }: Props) {
   return (
-    <div className="relative min-h-screen flex  justify-center MT">
+    <div className="relative min-h-screen flex  justify-center MT bg-blue-300 ">
       {/* Sidebar */}
       
       {/* Main Content */}

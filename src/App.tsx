@@ -8,7 +8,6 @@ import Layout from './components/Layout/Layout'
 import Main from './components/Profile-resume/Main'
 import Project from './components/Projects/Project'
 
-
 function App() {
 
   return (
@@ -24,11 +23,6 @@ function App() {
           <Contact/>
           <Footer/>
       </Layout>
-      
-     
-      
-      
-
     </>
   )
 }

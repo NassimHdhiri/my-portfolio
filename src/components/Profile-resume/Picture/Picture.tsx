@@ -10,30 +10,30 @@ import RectangleNassim from '../../../assets/Profile_resume/images/Rectanglenass
 
 export default function Picture() {
   return (
-    <div className=' relative  h-[610px] w-[400px]  '>
+    <div className=' relative  lg:h-[610px] lg:w-[400px] xs:h-[600px] xs:w-64 bg-red-400 '>
       {/* motifs */}
         {/* save */}
-        <img className="  absolute  bottom-28 right-7" src={BookmarkRibbon} alt="nassim's pic"/>
+        <img className="  absolute  lg:bottom-28 lg:right-7 xs:bottom-32  xs:w-6" src={BookmarkRibbon} alt="nassim's pic"/>
         {/* King */}
-        <img className=" absolute right-7 top-24" src={Crownd} alt="nassim's pic"/>
+        <img className=" absolute  lg:right-7 lg:top-24 xs:top-40  xs:w-6" src={Crownd} alt="nassim's pic"/>
         
         {/* LIGHT BOLT */}
-        <img className=" absolute left-2 bottom-28" src={LightningBolt} alt="nassim's pic"/>
+        <img className=" absolute lg:left-2 lg:bottom-28 xs:bottom-32 xs:left-16 xs:w-6" src={LightningBolt} alt="nassim's pic"/>
         
         {/* SEARCH */}
-        <img className=" absolute left-44 bottom-12 " src={MagnifyGlass} alt="nassim's pic"/>
+        <img className=" absolute lg:left-44 lg:bottom-12 xs:bottom-20 xs:left-52   xs:w-6 " src={MagnifyGlass} alt="nassim's pic"/>
         
         {/* STAR */}
-        <img className=" absolute top-24 left-2" src={StarRotate} alt="nassim's pic"/>
+        <img className=" absolute xs:top-40 xs:left-10 lg:top-24 lg:left-2 xs:w-9" src={StarRotate} alt="nassim's pic"/>
         
         {/* time */}
-        <img className=" absolute top-10 left-44" src={SandGlass} alt="nassim's pic"/>
+        <img className=" absolute lg:top-10 lg:left-44 xs:top-24 xs:left-48 xs:w-6" src={SandGlass} alt="nassim's pic"/>
         
         {/* rectangle Gris background */}
-        <img className=" absolute left-16 top-12 w-[304px] h-[502px]"  src={RectangleNassim} alt=""/>
+        <img className=" absolute lg:left-16 lg:top:20  xs:top-[149px] lg:w-[304px] lg:h-[502px] xs:h-80"  src={RectangleNassim} alt=""/>
 
         {/* Nassim picture */}
-        <img className=" absolute left-7  top-14 w-[326px] h-[486px] " src={ImageNassim} alt="nassim's pic"/>
+        <img className=" absolute lg:left-7  lg:top-14   xs:top-36 xs:-left-2  lg:w-[326px] lg:h-[486px] xs:h-64 " src={ImageNassim} alt="nassim's pic"/>
 
     </div>
   )

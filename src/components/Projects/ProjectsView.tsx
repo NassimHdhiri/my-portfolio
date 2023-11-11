@@ -9,7 +9,7 @@ import { AppState } from '../../store'
 export default function ProjectsView() {
     const {currentSlide} = useSelector((state:AppState)=>state.home);
   return (
-    <>
+    <div className='xs:m-auto'>
 
         { (currentSlide =="figma" ) && <ProjectFigma/>}
         { (currentSlide =="mobile" ) && <ProjectMobile/>}
@@ -20,7 +20,7 @@ export default function ProjectsView() {
             <Pagination/>
         </div>
         
-    </>
+    </div>
     
   )
 }

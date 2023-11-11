@@ -2,9 +2,9 @@ import EnactusPic from '../../../assets/Profile_experiences/images/Social/enactu
 
 export default function ExpSocialPicEnactus() {
   return (
-    <div className='w-96'>
+    <div className='lg:w-96 xs:w-64 '>
         <img src={EnactusPic} alt="" />
-        {/* <p>hello</p> */}
+        
     </div>
   )
 }

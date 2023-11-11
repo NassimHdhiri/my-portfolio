@@ -2,7 +2,7 @@ import CoachIsgPic from '../../../assets/Profile_experiences/images/Social/conta
 
 export default function ExpSocialCoachIsg() {
   return (
-    <div className='w-96'>
+    <div className='lg:w-96 xs:w-64 '>
         <img src={CoachIsgPic} alt="" />
     </div>
   )

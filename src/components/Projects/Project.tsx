@@ -6,7 +6,7 @@ import ProjectsView from './ProjectsView'
 
 export default function Project() {
   return (
-    <div className=' grid justify-center gap-y-12'>
+    <div className=' grid justify-center gap-y-12 xs:w-64  '>
       <ProjectTitle/>
       <ProjectMenu/>
       {/* <ProjectSingle/> */}
