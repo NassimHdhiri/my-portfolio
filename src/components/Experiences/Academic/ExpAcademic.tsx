@@ -22,8 +22,8 @@ export default function ExpAcademic() {
       
       
       {/* other */}
-      <div className=' row-span-3 xs:ml-[24%] '>
-          <div className=' bg-gray-100  xs:flex-wrap xs:w-64 lg:h-96 flex flex-col gap-5 items-center p-9 rounded-[42px] shadow-lg shadow-gray-400  justify-center'>
+      <div className=' row-span-3 xs:ml-[14%] xs:w-auto xs:p-1 '>
+          <div className=' bg-gray-100  xs:flex-wrap  lg:h-96 flex flex-col gap-5 items-center p-9 rounded-[42px] shadow-lg shadow-gray-400  justify-center'>
               <h2 className=' text-[35px] -mt-5 xs:m-auto xs:mb-9'>Other</h2>
               <div className='flex flex-wrap lg:gap-28 xs:gap-5 justify-center -mt-6'>
                   <ExpAcademicOther kind={true}/>

@@ -9,7 +9,7 @@ export default function ExpSocial() {
           <ExpSocialTitle/>
         </div>
         
-        <div className=' row-span-2 lg:-mt-14 xs:-mt-28 xs:-ml-4'>
+        <div className=' row-span-2 lg:-mt-14 xs:-mt-28 xs:ml-72'>
           <div className='flex xs:flex-wrap justify-between gap-10 '>
             <ExpSocialPicEnactus/>
             <ExpSocialCoachIsg/>

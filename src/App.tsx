@@ -12,7 +12,7 @@ import Repaire from './components/Repaire/Repaire'
 function App() {
 
   return (
-    <div className='bg-red-200 w-screen mr-8 ml-8 '>
+    <div className=' w-screen mr-8 ml-8 '>
 
       <Layout>
           <Main/>
