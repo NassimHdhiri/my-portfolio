@@ -13,7 +13,7 @@ export default function ProjectMenu() {
   return (
     <>
         {/* count === {currentSlide} */}
-        <div className='bg-gray-200 w-[680px] xs:w-72 xs:h-4 xs:pl-2 m-auto p-5 rounded-3xl '>
+        <div className='xs:ml-11 bg-gray-200 w-[680px] xs:w-72 xs:h-4 xs:pl-2 m-auto p-5 rounded-3xl '>
             <ul className='flex gap-5 justify-around xs:w-52 xs:text-[12px] xs:-mt-2 xs:pl-14'>
                 <li className={`pl-4 hover:font-semibold hover:cursor-pointer hover:underline ${(currentSlide=="figma")&& "font-semibold underline"}`} onClick={()=>handleCurrentSlideShowen("figma")}>Figma</li>
                 <li>l</li>

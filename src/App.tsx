@@ -7,7 +7,7 @@ import Footer from './components/Footer/Footer'
 import Layout from './components/Layout/Layout'
 import Main from './components/Profile-resume/Main'
 import Project from './components/Projects/Project'
-import Repaire from './components/Repaire/Repaire'
+// import Repaire from './components/Repaire/Repaire'
 
 function App() {
 
@@ -16,7 +16,7 @@ function App() {
 
       <Layout>
           <Main/>
-          <Repaire/>
+          {/* <Repaire/> */}
           <AboutMeMain/>
           <ExpAcademic/>
           <ExpSocial/>

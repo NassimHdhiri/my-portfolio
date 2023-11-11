@@ -22,7 +22,7 @@ export default function Repaire() {
                 .map((_, index) => (
                 <div
                     key={index}
-                    className="w-[75px] h-[6800px] bg-opacity-50 text-white flex items-center justify-center"
+                    className="w-[75px] bg-blue-200 h-[6800px] bg-opacity-50 text-white flex items-center justify-center"
                 >
                     {index + 1}
                 </div>
